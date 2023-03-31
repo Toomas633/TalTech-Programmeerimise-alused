@@ -1,0 +1,16 @@
+Töötaja palk ja maksud
+
+Brutopalk            500.0
+Töötuskindlustus     8.0
+Kogumispension       10.0
+Tulumaks             0
+Netopalk             482.0
+
+Arvestatud tulumaksuvaba miinimumi   500.0
+
+Tööandja kulud ja maksud
+
+Kogukulu tööandjale  669.0
+Brutopalk            500.0
+Sotsiaalmaks         165.0
+Töötuskindlustus     4.0
